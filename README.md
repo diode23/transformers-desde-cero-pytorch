@@ -122,7 +122,9 @@ Ingeniero eléctrico y electrónico orientado a ciencia de datos, inteligencia a
 🔗 [LinkedIn](https://www.linkedin.com/in/iamarcoantonio)
 🔗 [facebook](https://www.facebook.com/people/Marco-Antonio-Cornejo-Jaramillo/100090212510037/)
 🔗 [Personal Portafolio IA](https://www.ia.marcoantoniocornejo.com)  
-🔗 [Personal CV](https://www.cv.marcoantoniocornejo.com)  
+🔗 [Personal CV](https://www.cv.marcoantoniocornejo.com)
+🔗 [Proyecto Diabetes](https://diabetes.marcoantoniocornejo.com/)
+🔗 [Proyecto Diabetes](https://estres.marcoantoniocornejo.com/)
 📧 [Contacto](+584122494272)
 
 ---
