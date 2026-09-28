@@ -119,9 +119,10 @@ Las contribuciones son bienvenidas: correcciones, mejoras pedagógicas, visualiz
 
 **Marco Antonio Cornejo Jaramillo**  
 Ingeniero eléctrico y electrónico orientado a ciencia de datos, inteligencia artificial y automatización.  
-🔗 [LinkedIn](http://www.linkedin.com/in/iamarcoantonio)  
-🔗 [personal](http://www.ia.marcoantoniocornejo.com)  
-🔗 [personal](http://www.cv.marcoantoniocornejo.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/iamarcoantonio)
+🔗 [facebook](https://www.facebook.com/people/Marco-Antonio-Cornejo-Jaramillo/100090212510037/)
+🔗 [Personal Portafolio IA](https://www.ia.marcoantoniocornejo.com)  
+🔗 [Personal CV](https://www.cv.marcoantoniocornejo.com)  
 📧 [Contacto](+584122494272)
 
 ---
