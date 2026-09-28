@@ -124,8 +124,9 @@ Ingeniero eléctrico y electrónico orientado a ciencia de datos, inteligencia a
 🔗 [Personal Portafolio IA](https://www.ia.marcoantoniocornejo.com)  
 🔗 [Personal CV](https://www.cv.marcoantoniocornejo.com)
 🔗 [Proyecto Diabetes](https://diabetes.marcoantoniocornejo.com/)
-🔗 [Proyecto Diabetes](https://estres.marcoantoniocornejo.com/)
-📧 [Contacto](+584122494272)
+🔗 [Proyecto Estres](https://estres.marcoantoniocornejo.com/)
+📱 [Escríbeme por WhatsApp](https://wa.me/584122494272?text=Hola%20Marco%2C%20vi%20tu%20repositorio%20sobre%20Transformers%20con%20PyTorch.)  
+📧 [marcoantoniocornejojaramillo.13@gmail.com](mailto:marcoantoniocornejojaramillo.13@gmail.com)
 
 ---
 
